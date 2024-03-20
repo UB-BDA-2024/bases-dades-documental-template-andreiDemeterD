@@ -35,3 +35,6 @@ class SensorData(BaseModel):
     humidity: float
     battery_level: float
     last_seen: str
+
+
+#Intentem fer un esquema general on poguem guardar tot.
